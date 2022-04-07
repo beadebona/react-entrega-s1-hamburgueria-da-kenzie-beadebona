@@ -13,9 +13,9 @@ ul.product{
 li.product{
     list-style: none;
     border: 2px solid #E0E0E0;
-    box-sizing: border-box;
+    box-sizing: border-box; 
     border-radius: 5px;
-    width: 305px;
+    max-width: 305px;
     box-sizing: border-box;
     margin: 10px;
 }
